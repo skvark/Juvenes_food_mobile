@@ -1,11 +1,9 @@
-TUTfood_mobile
+Juvenes_food_mobile
 ==============
 
-Mobile web application built on top of my [JSON api](https://github.com/skvark/TUT_Juvenes_food)
+Mobile web application built on top of my [Juvenes JSON API](https://github.com/skvark/Juvenes_food_info)
 
 Code will be pushed here later. Need to fix first bugs and stuff. 
-
-[DEMO](http://tutfood.relativity.fi)
 
 Keywords:
 
