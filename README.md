@@ -5,6 +5,8 @@ Mobile web application built on top of my [Juvenes JSON API](https://github.com/
 
 Code will be pushed here later. Need to fix first bugs and stuff. 
 
+[DEMO](http://food.relativity.fi/) 
+
 Keywords:
 
 - Python
@@ -12,4 +14,4 @@ Keywords:
 - jQuery Mobile
 - Apache
 
-Olli-Pekka Heinisuo 2012
+Olli-Pekka Heinisuo 2012-2013
